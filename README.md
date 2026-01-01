@@ -1,2 +1,3 @@
-# ci-extensive-challenge
-Repository for CI extensive challenge with automation scripts.
+# CI Extensive Challenge
+
+A repository to test complex GitHub automation workflows.
